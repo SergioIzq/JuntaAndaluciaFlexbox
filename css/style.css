@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.miPagina {}
+
+.header {
+    background-color: grey;
+}
+
+.links {
+    gap: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.first_container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    padding-top: 10px;
+    height: 30px;
+    background-color: grey;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: baseline;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 10px;
+}
+
+.navbar {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-div {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+    width: 401px;
+    align-items: center;
+}
+
+.links-navbar {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.logo {
+    width: 50px;
+}
+
+
+
+.foto {
+    width: 100%;
+    height: 500px;
+}
+
+.input {
+    display: flex;
+}
+
+.fotoInput {
+    display: flex;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titulo {
+    margin-top: 30px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cajas {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.box2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
