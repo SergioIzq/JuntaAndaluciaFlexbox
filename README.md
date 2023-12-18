@@ -19,7 +19,7 @@ Como estudiante, la práctica es esencial para el desarrollo de habilidades téc
 1. Clona este repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/repo-junta-andalucia.git
+    git clone git@github.com:SergioIzq/JuntaAndaluciaFlexbox.git
     ```
 
 2. Abre el archivo `index.html` en tu navegador web.
